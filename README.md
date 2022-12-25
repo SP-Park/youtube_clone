@@ -1,8 +1,13 @@
 <Youtube Clone>
 
-1. Feature : Youtube video search / relatedVideo / Video Details
+Demo: https://happycloude-react.web.app/
 
-2 tanstack/react-query
-  tailwindcss
-  Context
-  react-ga4
+Feature 
+1. Youtube video search 
+2. relatedVideo 
+3. Video Details
+
+dependencies
+1. tanstack/react-query
+2. tailwindcss
+3. react
